@@ -1,1 +1,1 @@
-# TG-bot
+# Docs for using telegram bot
